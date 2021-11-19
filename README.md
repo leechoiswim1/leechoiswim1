@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<h6>✨TECH STACKS🛠</h6>
 <p>
 <img src="https://img.shields.io/badge/HTML-d00000?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1a759f?style=flat-square&logo=CSS3&logoColor=white"/>
