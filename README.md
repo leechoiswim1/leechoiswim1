@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/CSS-1a759f?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/styled%2Dcomponents-DB7093?style=flat-square&logo=styled%2Dcomponents&logoColor=white"/>
- <img src="https://img.shields.io/badge/fontawesome-339AF0?style=flat-squar&logo=fontawesome&logoColor=white">
-<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-squar&logo=bootstrap&logoColor=white">
+
 
 <br />
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
