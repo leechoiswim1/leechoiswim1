@@ -18,20 +18,23 @@ Here are some ideas to get you started:
 -->
 
 <h6>✨TECH STACKS🛠</h6>
+
 <p>
 <img src="https://img.shields.io/badge/HTML-d00000?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1a759f?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
-  <img src="https://img.shields.io/badge/styled%2Dcomponents-DB7093?style=flat-square&logo=styled%2Dcomponents&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/styled%2Dcomponents-DB7093?style=flat-square&logo=styled%2Dcomponents&logoColor=white"/>
 
 <br />
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white"/>
+  
+<br />
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
- <img src="http://img.shields.io/badge/socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-181717?style=flat-squar&logo=github&logoColor=white">
+<img src="http://img.shields.io/badge/socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-181717?style=flat-squar&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/aws-232F3E?style=flat-squar&logo=aws&logoColor=white">
 
 
