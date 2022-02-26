@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <br />
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
 <img src="http://img.shields.io/badge/socket.io-010101?style=flat&logo=socket.io&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/git-181717?style=flat&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=aws&logoColor=white">
 
 
