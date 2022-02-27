@@ -1,8 +1,10 @@
 <div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leechoiswim1&show_icons=true&theme=dark)](https://github.com/leechoiswim1/github-readme-stats)
+  
+![header](https://capsule-render.vercel.app/api?&color=3DDC84&height=300&section=header&text=Sooim's&nbsp;GitHub&animation=twinkling)
   <br />
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leechoiswim1&show_icons=true&theme=dark)](https://github.com/leechoiswim1/github-readme-stats)
 
 <!--
 **leechoiswim1/leechoiswim1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,6 +36,5 @@ Here are some ideas to get you started:
 
 
 </p>
-
 
 </div>
