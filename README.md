@@ -25,8 +25,7 @@
   
 <a href="https://github.com/leechoiswim1">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=leechoiswim1&theme=gotham&show_icons=true)" alt="SooimChoi's GitHub Stats" />
-</a>  
-<a href="https://github.com/leechoiswim1">
+</a>  <a href="https://github.com/leechoiswim1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leechoiswim1&theme=gotham&langs_count=8&show_icons=true&layout=compact" />
 </a>  
 </div>
