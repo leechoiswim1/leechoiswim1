@@ -1,6 +1,7 @@
 <div>
   
-![header](https://capsule-render.vercel.app/api?&color=3DDC84&height=250&section=header&text=Sooim's&nbsp;GitHub&desc=Hike&nbsp;Own&nbsp;Your&nbsp;Hike!&animation=twinkling&fontAlignY=30&descAlignY=45&fontSize=55)
+![sooim choi (1)](https://user-images.githubusercontent.com/85476908/155885488-b2864a15-3031-4ec7-a64e-e97aa256aeeb.png)
+
 
 ## About Me
 - Hi, I'm Sooim Choi, a front-end developer 👨🏻‍💻 from South Korea.<br> 
