@@ -10,7 +10,7 @@
 - Fun fact: I 💚 green and enjoy hiking, camping and travling 🌲🌎 
 
 
-## Language and Tools 
+## Languages and Tools 
   <p>
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
