@@ -13,15 +13,21 @@
 ## Languages and Tools 
   <p>
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
-<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=reactquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zustand-000000?style=flat&logo=Zustand&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zotai-764ABC?style=flat&logo=Zotai&logoColor=white"/>
+<img src="https://img.shields.io/badge/emotion-DB7093?style=flat&logo=emotion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
 <img src="http://img.shields.io/badge/socket.io-010101?style=flat&logo=socket.io&logoColor=white"/>
-<img src="https://img.shields.io/badge/git-181717?style=flat&logo=git&logoColor=white">
- <img src="https://img.shields.io/badge/notion-181717?style=flat&logo=notion&logoColor=white">   
+<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/notion-181717?style=flat&logo=notion&logoColor=white"/>
+
+
+
 </p>
   
 ## Github Stats
